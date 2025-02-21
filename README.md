@@ -14,5 +14,5 @@
 [![](https://visitcount.itsvg.in/api?id=MihajatianaNerason&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Mihajatiana's GitHub Stats](https://github-readme-stats.vercel.app/api?mihajatianaNerason=Mihajatiana&show_icons=true&theme=dark)
+![Mihajatiana's GitHub Stats](https://github-readme-stats.vercel.app/api?MihajatianaNerason=Mihajatiana&show_icons=true&theme=dark)
 
